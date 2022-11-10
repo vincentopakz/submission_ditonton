@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823659825483",
+    "project_id": "submissionditonton",
+    "storage_bucket": "submissionditonton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823659825483:android:c6df0cb1fddb012b56c0ce",
+        "android_client_info": {
+          "package_name": "com.example.submission_ditonton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823659825483-tu6p6givuju5e8pad00hv7roqkbrk8a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIap9zfuyr8G-xx11YWr_pOTFcj6ywSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823659825483-tu6p6givuju5e8pad00hv7roqkbrk8a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

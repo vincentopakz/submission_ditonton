@@ -1,0 +1,26 @@
+{
+    "backdrop_path": "backdropPath",
+    "first_air_date": "2021-01-01",
+    "genres": [
+        {
+            "id": 4,
+            "name": "action"
+        }
+    ],
+    "homepage": "homepage",
+    "id": 1,
+    "in_production": false,
+    "name": "name",
+    "origin_country": [
+        "originCountry"
+    ],
+    "original_language": "originalLanguage",
+    "original_name": "originalName",
+    "overview": "overview",
+    "popularity": 8.8,
+    "poster_path": "/path.jpg",
+    "tagline": "tagline",
+    "type": "type",
+    "vote_average": 9.9,
+    "vote_count": 200
+}
