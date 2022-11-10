@@ -1,2 +1,2 @@
 # Ditonton
-[![Codemagic build status](https://api.codemagic.io/apps/63694c75bf929666f8bf3430/63694c75bf929666f8bf342f/status_badge.svg)](https://codemagic.io/apps/63694c75bf929666f8bf3430/636bc7f39ed1c8c83620d2f1/latest_build)
+[![Codemagic build status](https://api.codemagic.io/apps/63694c75bf929666f8bf3430/63694c75bf929666f8bf342f/status_badge.svg)](https://codemagic.io/apps/63694c75bf929666f8bf3430/63694c75bf929666f8bf342f/latest_build)
